@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script src="https://kit.fontawesome.com/ec57865747.js" crossorigin="anonymous"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
@@ -17,6 +18,7 @@
   var num = 0;
   mermaid.initialize({ startOnLoad: false });
   window.$docsify = {
+    coverpage: true,
     loadSidebar: true,
     alias: {
       '/.*/_sidebar.md': '/_sidebar.md'
