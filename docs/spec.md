@@ -1,7 +1,10 @@
 # Meta Tags
-[filename](_media/meta_tag.mp4 ':include :type=video controls width=100%')
+[video1](_media/meta_tag.mp4 ':include :type=video controls width=100%')
+
 # Virtual Avatar
+[video2](_media/creative_mode.mp4 ':include :type=video controls width=100%')
+
 Coming soon. Current video is from web.
-[filename](_media/creative%20mode.mp4 ':include :type=video controls width=100%')
+[Check your Avatar](https://threejs.org/examples/webgl_loader_collada_skinning.html)
 # Virtual Workspace
-Coming Soon
+[Enter Virtual Workspace](https://threejs.org/examples/games_fps.html)

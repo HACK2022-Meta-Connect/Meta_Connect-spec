@@ -9,4 +9,4 @@
 - Hybrid Workspace and Metaverse
 
 [GitHub](https://github.com/HACK2022-Meta-Connect/Meta_Connect-spec/)
-[Get Started](/) 
+[Get Started](/README.md) 
