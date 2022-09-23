@@ -9,4 +9,4 @@
 - Hybrid Workspace and Metaverse
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Get Started](readme.md)
