@@ -8,5 +8,5 @@
 - Responsive Virtual Avatar
 - Hybrid Workspace and Metaverse
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](readme.md)
+[GitHub](https://github.com/HACK2022-Meta-Connect/Meta_Connect-spec/)
+[Get Started](readme.md) 
